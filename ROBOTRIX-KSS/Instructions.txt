@@ -1,0 +1,2 @@
+1)Google how to open .stp files in fusion360 and view the slider crank model in f360.
+2)The file location in solid file block will be different for your pc, so configure that to successfully run the simulation.
